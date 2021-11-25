@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
+td{
+    height: 300px;
+    width: 200px;
+    transition: all 0.3s;
+    text-align: center;
+    font-family: 'Fruktur', cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+td:hover{
+    border: 1px solid black;
+    width: 225px;
+}
+table{
+    background: rgb(0,255,4);
+    background: linear-gradient(90deg, rgba(0,255,4,1) 0%, rgba(0,198,255,1) 100%);
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    font-family: 'Fruktur', cursive;
+}
+h3{
+    text-align: center;
+    font-family: 'Fruktur', cursive;
+}
